@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 cae el solllllllllllllllllllllllllllll, en tu balconnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn y el rituallllllllllllllllllllll se terminooooooooooooooooooooooooo la verdadddddddddddddddddddddddddd........................
 
 hola mundoooo
@@ -7,3 +8,6 @@ asajskadjs
 aaaaadsldsd,s,
 sasas
 aasas
+=======
+mentirosso
+>>>>>>> 4edbfabbc61a95fcead78521406a4f38f0a5bec7
